@@ -20,6 +20,10 @@ Bugs
 Tasks
 -----
 
+* Project rename
+  * test the library name move to mindssh
+  * update other projects to use the new name
+
 * Split out SSH Server code into a separate project?
   * make dreammud use it
   * make inversum use it
